@@ -1,9 +1,9 @@
 # Mathematical-Pendulum
 Mathematical Pendulum using MATLAB
 
-g = standard gravity
-l = rod's length
-theta = the amplitude between the equilibrium position and the rod
+g = standard gravity,
+l = rod's length,
+theta = the amplitude between the equilibrium position and the rod.
 
 Differential function d^2 / dt^2 + g / l*sin(theta) = 0 depicts a mathematical pendulum. The function works when the starting amplitude is 90 or under. 
 Otherwise the ball 'falls' straight down wise, the rod wouldn't stay straight and when it would fasten fast there would be movement that couldn't be calculated with this function. 
